@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 
 public class ButtonMng : MonoBehaviour
 {
-    public void GameStartBtn()
+    public void StartBtn()
     {
         SceneManager.LoadScene(1);
     }
