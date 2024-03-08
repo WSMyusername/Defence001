@@ -10,6 +10,6 @@ public class ButtonMng : MonoBehaviour
 {
     public void GameStartBtn()
     {
-
+        SceneManager.LoadScene(1);
     }
 }
